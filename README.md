@@ -4,9 +4,9 @@ FbProphet is a powerful time series analysis package released by Core Data Scien
 
 Forecasting Prediction Plot in which:
 
-black dots -----> Actual values
-Blue line ------> Predicted Values
-Shaded Area ----> yhat_upper and yhat_lower
+1. black dots -----> Actual values
+2. Blue line ------> Predicted Values
+3. Shaded Area ----> yhat_upper and yhat_lower
 
 ![HDFC](https://user-images.githubusercontent.com/99349304/153294480-c2ecaae8-0bb2-4b21-b86d-d4ac3a2edd9e.png)
 ![Screenshot (72)](https://user-images.githubusercontent.com/99349304/153294485-0296b924-05fb-4754-8afe-3ab16a9e4cae.png)
